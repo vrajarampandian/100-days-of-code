@@ -1,0 +1,2 @@
+File was created using 'open' method and write mode
+New line appended
