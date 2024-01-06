@@ -2,4 +2,6 @@
 
 04/01/2024 - Day 02 - learned basic about dictionaires,request and git API. created the python program for GIT commits and pulls get information 
 
-05/01/2024 - Day 03 - Python File handling. wrote a basic file operation programs 
+05/01/2024 - Day 03 - Python File handling. wrote a basic file operation programs
+
+06/01/2024 - Day 04 - learned the AWS - boto3 API and created the simple S3 bucket from python script
