@@ -5,3 +5,5 @@
 05/01/2024 - Day 03 - Python File handling. wrote a basic file operation programs
 
 06/01/2024 - Day 04 - learned the AWS - boto3 API and created the simple S3 bucket from python script
+
+07/01/2024 - Day 05 - learned the AWS lambda function and configuration - created the lambda_handler function in my AWS Account 
